@@ -1,0 +1,26 @@
+_repo: How-To-Get-the-Most-Out-of-Your-Victrola_53656
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Victor Talking Machine Company
+    alias: Company, Victor Talking Machine
+    gutenberg_agent_id: '47479'
+    url: http://www.gutenberg.org/2009/agents/47479
+description: ''
+gutenberg_issued: '2016-12-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53656'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Music appreciation'
+- !lcsh 'Phonograph -- Catalogs'
+- !lcsh 'Sound recordings -- United States -- Catalogs'
+- !lcc 'TS'
+- !lcc 'MT'
+- GITenberg
+title: How To Get the Most Out of Your Victrola
+url: http://www.gutenberg.org/ebooks/53656
